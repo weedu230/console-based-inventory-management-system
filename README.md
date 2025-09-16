@@ -1,7 +1,8 @@
+🔹 A simple C# console based 
 Inventory Management System
-🔹 Problem
 
-Make a simple menu-based system to:
+
+A simple menu-based system to:
 
 Add item
 
